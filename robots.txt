@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://loonithah.91epub.com/sitemap.xml
